@@ -16,4 +16,4 @@ We welcome contributions from developers, enthusiasts, and open-source advocates
 ## 📢 Stay Connected  
 Follow our journey, contribute, and help shape the future of open-source innovation.  
 
-🔗 [GitHub Organization](https://github.com/StackBolt)  
+🔗 [StackBolt⚡](https://github.com/StackBolt)  |  [Discussion 🗨️](https://github.com/orgs/StackBolt/discussions)
